@@ -15,7 +15,7 @@ Esta es una aplicación de línea de comandos (CLI) desarrollada en Node.js que 
    cd tarea2GestorTareasPendientes
 
 
-Funcionalidades  
+## Funcionalidades  
 • Agregar tarea: Permite agregar una nueva tarea a la lista.  
 • Listar tareas: Muestra todas las tareas pendientes y completadas.  
 • Marcar como completada: Permite marcar una tarea como completada.  
@@ -28,6 +28,6 @@ Si seleccionas Marcar como completada, podrás elegir una tarea para marcarla co
 Si seleccionas Eliminar tarea, podrás eliminar una tarea de la lista.  
 Si seleccionas Salir, el programa se cerrará.  
 
-Dependencias utilizadas  
+### Dependencias utilizadas  
 prompts: Para interactuar con el usuario desde la terminal.  
 chalk: Para mejorar la visualización de los mensajes en la terminal.  
